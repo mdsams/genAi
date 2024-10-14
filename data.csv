@@ -1,0 +1,16 @@
+ID,Name,check-In,check-Out,courses_completed,course_list,review_text,manager_rating,learning_summery
+1,Shams Tabrez,10/8/2024 9:30:00,10/8/2024 18:00:00,3,"1. GCP Data Engineering  
+2. GEN AI 
+3. GCP Associate Engineering",Shams has been punctual but needs to improve his technical skills.,4.8,"The *GCP Data Engineering** course focuses on designing, building, operationalizing, and securing data processing systems using Google Cloud Platform (GCP) services like BigQuery, Dataflow, and Pub/Sub. The **GEN AI** course covers the foundations of Generative AI, including its key concepts, models like GPT and transformers, and applications in text, image, and data generation. The **GCP Associate Engineering** course prepares candidates for the GCP Associate Cloud Engineer certification, teaching essential skills for deploying applications, monitoring operations, and managing enterprise solutions using GCP tools such as Compute Engine, Kubernetes, and Cloud Storage."
+,,11/8/2024 9:00:00,11/8/2024 18:00:00,,,,,
+,,12/8/2024 10:00:00,12/8/2024 18:30:00,,,,,
+,,13/8/2024 10:30:00,13/8/2024 17:00:00,,,,,
+2,MD Ghazanfar Alam,10/8/2024 9:00:00,10/8/2024 17:30:00,1,1..GCP Associate Engineering,Ghazanfar needs to work hard and to complete his assigned tasks,4,"The GCP Associate Engineering course prepares candidates for the GCP Associate Cloud Engineer certification, teaching essential skills for deploying applications, monitoring operations, and managing enterprise solutions using GCP tools such as Compute Engine, Kubernetes, and Cloud Storage."
+,,11/8/2024 9:00:00,11/8/2024 18:00:00,,,,,
+,,12/8/2024 10:00:00,12/8/2024 16:30:00,,,,,
+,,13/8/2024 10:30:00,13/8/2024 17:00:00,,,,,
+3,Pritom Rahaman,10/8/2024 9:00:00,10/8/2024 16:30:00,2,"1. GEN AI 
+2. GCP Associate Engineering",Pritom needs to work hard he is neither punctual nor completing his task.,3.8,"The GEN AI course covers the foundations of Generative AI, including its key concepts, models like GPT and transformers, and applications in text, image, and data generation. The GCP Associate Engineering course prepares candidates for the GCP Associate Cloud Engineer certification, teaching essential skills for deploying applications, monitoring operations, and managing enterprise solutions using GCP tools such as Compute Engine, Kubernetes, and Cloud Storage."
+,,11/8/2024 9:00:00,11/8/2024 17:00:00,,,,,
+,,12/8/2024 10:00:00,12/8/2024 16:30:00,,,,,
+,,13/8/2024  10:30:00,13/8/2024  15:30:00,,,,,
